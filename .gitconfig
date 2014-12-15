@@ -1,0 +1,7 @@
+[user]
+	email = algebrat@uw.edu
+	name = Brady Trainor
+[core]
+	editor = vim
+[push]
+	default = simple
